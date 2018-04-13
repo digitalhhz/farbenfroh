@@ -1,9 +1,9 @@
+Link to original repository: https://github.com/AnnaG18/IoT-Hackathon_reactiveEnvironment
+
 # IoT-Hackathon
 <img src="https://user-images.githubusercontent.com/28348801/27071192-2f2907dc-501c-11e7-970b-594abed77fc0.jpg" width="400">
 Das Team "FarbenFROH" hat sich für den Hackathon 2017 ein Szenario überlegt, das die Qualität der Lehr- und Lernumgebung verbessern soll. Mit Hilfe einer Lampe kann, anhand von verschiedenen Farben, der Gehalt von CO2 oder die aktuelle Raumtemperatur dargestellt werden. Da die Lampe den Istzustand anzeigt, kann durch eine sofortige Reaktion der Studenten oder des Professors, beispielsweise mit Lüften des Klassenraums oder Einlegen einer kurzen Pause, die Qualität der Lehr- und Lernumgebung sogleich verbessert werden.
 
-
-Link to original repository: https://github.com/AnnaG18/IoT-Hackathon_reactiveEnvironment
  
 ## Inhaltsverzeichnis
 1. [Konzeption](#konzeption)
